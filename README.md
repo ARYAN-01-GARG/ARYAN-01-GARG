@@ -8,7 +8,7 @@
 
 <img align="right" alt="Aryan" width="300" src="docs/avatar_3d.png" />
 
-- 🧑🏻‍💻 I’m currently learning **NestJS** and **Consensus Algorithms**
+- 🧑🏻‍💻 I’m currently learning **Rust Systems** and **Consensus Algorithms**
 - 💻 I’m currently working on [**learnbuddy**](https://github.com/ARYAN-01-GARG/learnbuddy) and [**dsa-algo-rust**](https://github.com/ARYAN-01-GARG/dsa-algo-rust)
 - 🤝🏻 I’m open to collaborating on projects involving **High-Performance Backends**, **Full-Stack Web Apps**, **Linux Tools**, **Rust/C++ Scripts**, **Distributed Systems** etc.
 - 📫 Reach me at : **<workwitharyangarg0@gmail.com>**
