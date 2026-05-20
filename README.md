@@ -1,24 +1,166 @@
-# 💫 About Me:
-🛠️ I'm currently working on<br>Building real-time, event-driven systems at Heizen — handling high concurrency and distributed state at scale.<br>🤝 I'm looking to collaborate on<br>High-performance backends, distributed systems, real-time applications, and challenging scalability problems.<br>🆘 I'm looking for help with<br>Advanced system design patterns and production-grade observability for distributed systems.<br>🌱 I'm currently learning<br>Rust, distributed systems primitives (consensus, event sourcing, CQRS), and advanced system design.<br>💬 Ask me about<br>Distributed systems, event-driven architectures, real-time systems, or scaling from 0 to 5,000+ users.<br>⚡ Fun fact<br>I run Arch Linux with Hyprland and believe the best learning happens when debugging production incidents (in staging).
+<!-- [![MasterHead] -->
+<h1 align="center">👋🏻 Hey there, I'm Aryan</h1>
+<h3 align="center">Software Engineer | Backend & Distributed Systems | Low-Level Systems</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ARYAN-01-GARG&label=Profile%20views&color=0e75b6&style=flat" alt="ARYAN-01-GARG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaryan_garg_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-garg-ab9900272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwitharyangarg0@gmail.com) 
+<img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARYAN-01-GARG&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ARYAN-01-GARG&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN-01-GARG&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🧑🏻‍💻 I’m currently learning **NestJS** and **Consensus Algorithms**
+- 💻 I’m currently working on [**learnbuddy**](https://github.com/ARYAN-01-GARG/learnbuddy) and [**dsa-algo-rust**](https://github.com/ARYAN-01-GARG/dsa-algo-rust)
+- 🤝🏻 I’m open to collaborating on projects involving **Distributed Systems**, **Hacking Tools**, **Full-Stack Web Apps**, **Linux Tools**, **Rust/C++ Scripts** etc.
+- 📫 Reach me at : **<workwitharyangarg0@gmail.com>**
+- 📱 Connect with me : **[LinkedIn](https://linkedin.com/in/aryan-garg-ab9900272)**
+- ♟️ Play chess with me : **[Lichess](https://lichess.org) | [Chess.com](https://chess.com)**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ARYAN-01-GARG&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ARYAN-01-GARG&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">🤙🏻 Connect with me:</h3>
+<p align="left">
+        <a href="https://stackoverflow.com/users/placeholder" target="_blank" rel="noreferrer"> <kbd> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" height="32" /> </kbd></a>
+        <a href="https://dev.to/placeholder" target="_blank" rel="noreferrer"> <kbd> <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="40" height="32" /> </kbd></a>       
+        <a href="https://instagram.com/aaryan_garg_01" target="_blank" rel="noreferrer"> 
+        <kbd>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="32" />
+        </kbd>
+        </a>      
+        <a href="https://linkedin.com/in/aryan-garg-ab9900272" target="_blank" rel="noreferrer"> <kbd> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="32" /> </kbd></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ARYAN-01-GARG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Profile
+
+```yaml
+developer:
+  name: Aryan Garg
+  role: Software Engineer | Backend & Distributed Systems
+  core_stack: [TypeScript, JavaScript, Rust, C++, Go, Java, Bash, Lua]
+  current_focus: [Consensus Algorithms, Event Sourcing, High-Concurrency distributed systems]
+  env: "Arch Linux | Hyprland | Neovim"
+  philosophy: "The best learning happens when debugging production incidents (in staging)."
+```
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,rust,cpp,go,java,bash,lua&theme=dark" /> |
+| **Backend & Distributed** | <img src="https://skillicons.dev/icons?i=nestjs,nextjs,rabbitmq,graphql,express,nodejs,fastapi&theme=dark" /> |
+| **Databases & State** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,prisma&theme=dark" /> |
+| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,docker,jenkins,git,github,postman,jest&theme=dark" /> |
+
+</div>
+
+---
+
+<h3 align="left">⚙️ Projects:</h3>
+
+<a href="https://github.com/ARYAN-01-GARG/learnbuddy#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=learnbuddy" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/dsa-algo-rust#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=dsa-algo-rust" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/payu#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=payu" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/zorvy#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=zorvy" />
+</a>
+
+</br>
+<a href="https://github.com/ARYAN-01-GARG/Workify#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=Workify" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/my-dotfiles#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=my-dotfiles" />
+</a>
+
+<a href="https://github.com/ARYAN-01-GARG/learnbuddy#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=learnbuddy&theme=github_dark" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/dsa-algo-rust#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=dsa-algo-rust&theme=github_dark" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/payu#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=payu&theme=github_dark" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/zorvy#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=zorvy&theme=github_dark" />
+</a>
+
+</br>
+<a href="https://github.com/ARYAN-01-GARG/Workify#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=Workify&theme=github_dark" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/my-dotfiles#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=my-dotfiles&theme=github_dark" />
+</a>
+
+<details>
+        
+<summary><h3> More Useful Repos [Click to expand]</h3></summary>
+
+<a href="https://github.com/ARYAN-01-GARG/SnakeGame#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=SnakeGame" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/b2b-dashboard#gh-light-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercelapp/api/pin/?username=ARYAN-01-GARG&repo=b2b-dashboard" />
+</a>
+
+<a href="https://github.com/ARYAN-01-GARG/SnakeGame#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=SnakeGame&theme=github_dark" />
+</a>
+<a href="https://github.com/ARYAN-01-GARG/b2b-dashboard#gh-dark-mode-only"><img
+  src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=ARYAN-01-GARG&repo=b2b-dashboard&theme=github_dark" />
+</a>
+
+</details>
+
+---
+
+### 👾 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARYAN-01-GARG/ARYAN-01-GARG/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARYAN-01-GARG/ARYAN-01-GARG/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ARYAN-01-GARG/ARYAN-01-GARG/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Activity Dashboard
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=ARYAN-01-GARG&show_icons=true&locale=en&layout=compact&theme=dark">
+    <img alt="Shows Aryan's GitHub Top Languages." src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=ARYAN-01-GARG&show_icons=true&locale=en&layout=compact&theme=default" height="195">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=ARYAN-01-GARG&show_icons=true&include_all_commits=true&locale=en&theme=dark">
+    <img alt="Shows Aryan's GitHub Stats." src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ARYAN-01-GARG&show_icons=true&include_all_commits=true&locale=en" height="195">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ARYAN-01-GARG&theme=dark&hide_border=true">
+    <img alt="Shows Aryan's GitHub Streak." src="https://streak-stats.demolab.com/?user=ARYAN-01-GARG&hide_border=true" height="195">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARYAN-01-GARG&bg_color=0D1117&color=3ECF8E&line=3ECF8E&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+<div align="center">
+  <br />
+  <img src="https://visitcount.itsvg.in/api?id=ARYAN-01-GARG&icon=0&color=2" alt="Visitor Count" />
+</div>
