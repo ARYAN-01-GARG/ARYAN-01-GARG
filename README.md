@@ -56,6 +56,17 @@ developer:
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryangarg0210/aryangarg0210/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Aryan's contribution snake" src="https://raw.githubusercontent.com/aryangarg0210/aryangarg0210/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### 📊 GitHub Activity Dashboard
 
 <p align="center">
